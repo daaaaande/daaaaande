@@ -15,13 +15,14 @@
 ## 🚀 Featured Project
 - [pacbio_variants](https://github.com/WestGermanGenomeCenter/pacbio_variants):  
   Cutting-edge pipeline for PacBio long-read variant analysis, developed and maintained at WGGC.
+- Explain Podcast: a very specific audio-podcast about DNA / RNA Sequencing Technology [click here!](https://ngs-kn.de/explain-podcast/).
 
 ## 📫 Get in Touch
 - Email: daniel.rickert[at]uni-duesseldorf.de
 - [LinkedIn](https://www.linkedin.com/in/daniel-r-b6661417a/)
 
 ## 🏸 Fun Fact
-When I’m not coding, you’ll find me smashing birdies at BC Düsseldorf!
+When I’m not coding, you’ll find me playing badminton at BC Düsseldorf!
 
 ---
 
