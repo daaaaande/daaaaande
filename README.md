@@ -4,6 +4,10 @@
 🎓 PostDoc @ WGGC-D, supporting all bioinformatics for long and short read analysis  
 🧬 Previously Bioinformatics PhD at UKD Düsseldorf: cancer multiomics, circular RNA
 
+## Personal Website
+[Click here](https://daaaaande.github.io/personal_site/)
+
+
 ## 💡 Top Skills
 - Transcriptomics & Genomics
 - Data Analysis
